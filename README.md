@@ -1,8 +1,5 @@
 # Real_Estates_Management_System
-
-# Project Title
-Visual Basic-Real State Management System
-
+Visual Basic
 
 
 ## Description
