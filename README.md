@@ -35,7 +35,7 @@ decisions without needing to visit the property in person.
 
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/ChavzDan/CoderFitz.git
+1. Clone the repository: `git clone https://github.com/kingmattphilippines/Library_Management_System.git
 
 
 
